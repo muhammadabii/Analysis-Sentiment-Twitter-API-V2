@@ -10,4 +10,5 @@ Step-by-step:
 
 Article:
 
+https://medium.com/@m.abidaulay/sentiment-analysis-via-twitter-api-v2-with-python-flair-library-bahasa-indonesia-178de979d734
 
